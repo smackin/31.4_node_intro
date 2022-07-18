@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "node exercises",
+  "main": "step1.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/smackin/31.4_node_intro.git"
+  },
+  "keywords": [
+    "node",
+    "exercise"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smackin/31.4_node_intro/issues"
+  },
+  "homepage": "https://github.com/smackin/31.4_node_intro#readme"
+}
